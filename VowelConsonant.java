@@ -1,7 +1,5 @@
 package com.bridgelabz.basics;
-
 import java.util.Scanner;
-
 public class vowelc {
     static void Vowel_Consonant(char x)
    // class Char
@@ -10,9 +8,7 @@ public class vowelc {
             System.out.println("Entered character is vowel");
         else
             System.out.println("It is Consonant");
-
     }
-
     public static void main(String[] args) {
         //int i=0;
         //Scanner scn=new Scanner(System.in);
