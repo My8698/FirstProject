@@ -1,8 +1,6 @@
 package com.bridgelabz.basics;
-
 import java.util.Scanner;
-
-public class powerof2 {
+public class PowerOf2 {
     public static void main(String[] args) {
         int b,e;
         Scanner scn=new Scanner(System.in);
