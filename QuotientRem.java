@@ -1,9 +1,6 @@
 package com.bridgelabz.basics;
-
-public class quotientrem {
+public class QuotientRem {
     public static void main(String[] args) {
-
-
         int divident = 556, divisor = 9;
         int quotient = divident / divisor;
         int remainder = divident % divisor;
