@@ -1,12 +1,10 @@
 package com.bridgelabz.basics;
-
-public class largestno {
+public class LargestNo {
     public static void main(String[] args) {
         int a,b,c,large;
-        a=100;
+        a=100L
         b=400;
         c=150;
-
         large=bigofthree(a,b,c);
         System.out.println(large + " is the largest number among three");
     }
