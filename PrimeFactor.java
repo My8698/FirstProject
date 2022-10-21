@@ -1,5 +1,4 @@
 package com.bridgelabz.basics;
-
 public class primefactor {
     public static void primeFactor(int n) {
         while (n%2==0)
@@ -18,7 +17,6 @@ public class primefactor {
         if (n>2)
             System.out.print(n);
     }
-
     public static void main(String[] args) {
         int n=315;
         primeFactor(n);
